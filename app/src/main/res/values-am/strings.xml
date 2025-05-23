@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">የቅጽ መተግበሪያ</string>
+    <string name="form_title">የምዝገብ ቅጽ</string>
+    <string name="full_name">ሙሉ ስም</string>
+    <string name="email">ኢሜይል</string>
+    <string name="phone">ስልክ ቁጥር</string>
+    <string name="birth_date">የትውልድ ቀን</string>
+    <string name="select_image">ምስል ይምረጡ</string>
+    <string name="submit">አስገባ</string>
+    <string name="display_info">መረጃ አሳይ</string>
+    <string name="menu_settings">ቅንብሮች</string>
+    <string name="menu_help">እርዳታ</string>
+    <string name="menu_about">ስለ</string>
+    <string name="context_edit">አርትዕ</string>
+    <string name="context_delete">ሰርዝ</string>
+    <string name="context_copy">ቅዳስ</string>
+    <string name="error_field_required">ይህ መስክ ያስፈልጋል</string>
+    <string name="language">ሰርዝ</string>
+    <string name="clear">ሰርዝ</string>
+</resources>

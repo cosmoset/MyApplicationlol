@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyApplicationlol" parent="Theme.Material3.DayNight.NoActionBar">
+
+
+    </style>
+
+    <style name="Theme.MyApplicationlol" parent="Base.Theme.MyApplicationlol" >
+
+        <item name="colorPrimary">@color/md_theme_light_primary</item>
+        <item name="colorOnPrimary">@color/md_theme_light_onPrimary</item>
+        <item name="colorPrimaryContainer">@color/md_theme_light_primaryContainer</item>
+        <item name="colorOnPrimaryContainer">@color/md_theme_light_onPrimaryContainer</item>
+        <!-- Primary brand color. -->
+
+        <!-- Secondary brand color. -->
+
+        <!-- Status bar color. -->
+
+    </style>
+</resources>
